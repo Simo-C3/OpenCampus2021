@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <img src="https://simo-c3.github.io/image_url/C3-OpenCampus2021.png" alt="C3 summer logo" title="C3 summer logo" class="C3_summer_logo"/>
+      <img src="https://simo-c3.github.io/image_url/c3_summer_logo.png" alt="C3 summer logo" title="C3 summer logo" class="C3_summer_logo"/>
       <h1 class="title">
         Coming Soon . . .
       </h1>

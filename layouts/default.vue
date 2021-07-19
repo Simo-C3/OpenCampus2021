@@ -6,7 +6,7 @@
 
 <style>
 body {
-  background-image: url("../assets/img/bg_coming_soon.png");
+  background-image: url("https://simo-c3.github.io/image_url/C3-OpenCampus2021.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
